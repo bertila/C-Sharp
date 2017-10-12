@@ -1,0 +1,7 @@
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\bin\Debug\Problem C_ver2.exe.config
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\bin\Debug\Problem C_ver2.exe
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\bin\Debug\Problem C_ver2.pdb
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\obj\Debug\Problem C_ver2.csprojResolveAssemblyReference.cache
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\obj\Debug\Problem C_ver2.csproj.CoreCompileInputs.cache
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\obj\Debug\Problem C_ver2.exe
+C:\Users\Bertil\source\repos\Problem C_ver2\Problem C_ver2\obj\Debug\Problem C_ver2.pdb
